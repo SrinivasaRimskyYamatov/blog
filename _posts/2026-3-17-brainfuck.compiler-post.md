@@ -1,1 +1,1 @@
-![logo](images/bfr.mp4)
+![logo](images/bfr.gif)
