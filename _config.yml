@@ -1,0 +1,9 @@
+title: "Rimsky Blog"
+description: "技術系ブログ"
+theme: minima
+
+minima:
+  skin: dark
+
+header_pages:
+  - about.md
