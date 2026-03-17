@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-#Rimsky Blog
+# Rimsky Blog
 
 技術系のブログ
 
