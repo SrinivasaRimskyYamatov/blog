@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "BrainfuckCompilerについて"
-date: 2026-03-17
+date: 2026-03-18
 categories: [programming]
-tags: [test]
+tags: [langage]
 ---
 
 # NASM(NetwideAssembler)で作成されたBrainfuckCompiler
