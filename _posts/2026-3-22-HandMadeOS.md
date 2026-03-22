@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "C++とGRUBで作る超シンプルOS（Hello World表示）"
+title: "Hello,World!を表示するシンプルなOS"
 date: 2026-03-22
 categories: [OS開発]
 tags: [C++, GRUB, OS, Program]
