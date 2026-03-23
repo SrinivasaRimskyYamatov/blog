@@ -7,7 +7,7 @@ tags: [C++, GRUB, OS, Program]
 ---
 
 # C++とGRUBで最小構成のOSを作る
-![demo](https://raw.githubusercontent.com/rimskyyamatov-lgtm/blogimages/main/HOS.png)
+![demo](https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/HOS.png)
 
 今回は、**C++ + GRUB + NASM**を使って、
 画面に「Hello, World!」を表示するだけの超シンプルなOSを作りました。
