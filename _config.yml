@@ -1,5 +1,8 @@
 title: "Rimsky Blog"
-description: "技術系ブログ"
+description: "プログラミング・開発・技術学習の記録を発信する技術ブログ"
+url: "https://srinivasarimskyyamatov.github.io"
+lang: ja
+
 theme: minima
 
 minima:
@@ -7,3 +10,8 @@ minima:
 
 header_pages:
   - about.md
+
+plugins:
+  - jekyll-sitemap
+
+google_site_verification: "←Search Consoleのコード（後で）"
