@@ -17,7 +17,7 @@ title: "About"
 [youtube](https://www.youtube.com/@%D0%A8%D1%80%D0%B8%D0%BD%D0%B8%D0%B2%D0%B0%D1%81%D0%B0.%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9.%D0%AF%D0%BC%D0%B0%D1%82%D0%BE%D0%B2)
 できたら動画投稿
 
-[note](note.com/rimsky_2672)
+[note](https://note.com/rimsky_2672)
 化学とか(予定)
 
 [github](https://github.com/SrinivasaRimskyYamatov)
