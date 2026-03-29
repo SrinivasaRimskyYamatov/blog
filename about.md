@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-## 自己紹介
+## プロフィール
 <img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/STF2.png" width="50"
      style="border-radius:50%; box-shadow:0 0 10px #000;">
      Srinivasa.Rimsky.Yamatov
