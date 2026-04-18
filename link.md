@@ -75,7 +75,7 @@ title: "Link"
   </a>
 
   <a class="link-card github" href="https://github.com/SrinivasaRimskyYamatov">
-    <span class="icon">💻</span>
+    <span class="icon"><img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/github.png"></span>
     <div>
       GitHub<br>
       <span class="desc">コード公開</span>
