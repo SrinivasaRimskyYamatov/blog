@@ -60,7 +60,9 @@ title: "Link"
   </a>
 
   <a class="link-card note" href="https://note.com/rimsky_2672">
-    <span class="icon">📝</span>
+    <span class="icon">
+      <img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/note.png">
+    </span>
     <div>
       Note<br>
       <span class="desc">機械語とか</span>
