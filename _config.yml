@@ -10,6 +10,7 @@ minima:
 
 header_pages:
   - about.md
+  - link.md
 
 plugins:
   - jekyll-sitemap
