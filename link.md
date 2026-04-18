@@ -50,7 +50,9 @@ title: "Link"
     </a>
 
   <a class="link-card youtube" href="https://youtube.com/channel/UCwAyGE_6uz7BBU2qr5dF5lw?si=GVfhuCMuIwFaIHKY">
-    <span class="icon">▶️</span>
+    <span class="icon">
+      <img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/youtube.png">
+    </span>
     <div>
       YouTube<br>
       <span class="desc">動画投稿（予定）</span>
