@@ -14,7 +14,7 @@ title: "Link"
   align-items: center;
   padding: 10px 0;
   text-decoration: none;
-  color: #ddd;
+  color: #ccc;
   border-bottom: 1px solid #333;
   transition: 0.15s;
 }
@@ -66,7 +66,9 @@ title: "Link"
   </a>
 
   <a class="link-card github" href="https://github.com/SrinivasaRimskyYamatov">
-    <span class="icon"><img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/github.png"></span>
+    <span class="icon">
+      <img src="https://raw.githubusercontent.com/SrinivasaRimskyYamatov/blogimages/main/github.png">
+    </span>
     <div>
       GitHub<br>
       <span class="desc">コード公開</span>
