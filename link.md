@@ -6,7 +6,7 @@ title: "Link"
 <style>
 .link-container {
   display: grid;
-  gap: 16px;
+  gap: 14px;
   max-width: 500px;
   margin: 0 auto;
 }
@@ -17,34 +17,37 @@ title: "Link"
   padding: 14px 18px;
   border-radius: 14px;
   text-decoration: none;
-  color: #fff;
-  font-weight: bold;
+  color: #eee;
+  font-weight: 500;
+  background: #1e1e1e;
+  border: 1px solid #2a2a2a;
   transition: 0.2s;
 }
 
 .link-card:hover {
-  transform: translateY(-3px);
-  opacity: 0.9;
+  transform: translateY(-2px);
+  background: #2a2a2a;
 }
 
-/* 個別カラー */
-.home { background: #4CAF50; }
-.youtube { background: #FF0000; }
-.note { background: #41C9B4; }
-.github { background: #333; }
+/* 控えめアクセント */
+.home:hover { border-color: #4CAF50; }
+.youtube:hover { border-color: #ff5555; }
+.note:hover { border-color: #41C9B4; }
+.github:hover { border-color: #888; }
 
 .icon {
-  font-size: 22px;
   margin-right: 12px;
 }
+
+.icon img {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+}
+
 .desc {
   font-size: 12px;
-  opacity: 0.8;
-}
-.icon img {
-  width: 24px;
-  height: 24px;
-  object-fit: contain;
+  opacity: 0.6;
 }
 </style>
 
