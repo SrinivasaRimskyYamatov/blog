@@ -44,13 +44,15 @@ ul {
 
 <ul>
   <li>中学生</li>
-  <li>剣道部</li>
+  <li>剣道部 剣道初段</li>
   <li>言語開発好き</li>
-  <li>かなり扱える言語：C++ / Ruby / BASIC</li>
+  <li>かなり扱える言語：C++ / Ruby / BASIC / Go</li>
   <li>少し扱える言語：JavaScript / NASM / Python / GAS</li>
-  <li>挑戦中：Haskell / Lua / Rust</li>
 </ul>
-
+<ul>
+  <li>開発中の言語:X,Tenmu</li>
+  <li>開発中のOS:Ojin</li>
+</ul>
 ---
 ### アイコンの説明
 <div class="section">
